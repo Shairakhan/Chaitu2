@@ -11,4 +11,4 @@ Feature: Verify the login Functionality
     When  User Enter Username
     And   user Enter Password
     And   User click on logout button
-    Then  User should be successful login
+    Then  User should be successful Logout
